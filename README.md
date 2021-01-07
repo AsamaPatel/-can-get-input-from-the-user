@@ -1,2 +1,2 @@
-# -can-get-input-frpm-the-user
+# -can-get-input-from-the-user
 Getting Input From The User
